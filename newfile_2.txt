@@ -1,2 +1,6 @@
 i'm a text file 2
+
 changed by local
+
+changed by remote origin once times
+
